@@ -1,4 +1,4 @@
-# Hi there i´m Santiago Morales 👋
+# ¡Hi there! i´m Santiago Morales 👋
 
 <!--
 **SanTi1803/SanTi1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

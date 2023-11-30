@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🔭 About me
 
 I am passionate about technology, particularly in Data Analytics and Data Science. I am very eager and excited to continue learning more about the field. My goal is to pursue what I love and never stop learning.
-During my studies, I have acquired knowledge in Data Visualization, Python, Business Analysis for Data Science, MySQL, as well as proficiency in Excel and Tableau.
+During my studies, I have acquired knowledge in Data Visualization, Python, Business Analysis for Data Science, MySQL, as well as proficiency in Excel and Power BI.
 
 I’m looking to collaborate with any company in need of my skills. I am available to speak with anyone who would like to learn more about me and what I do.
 
